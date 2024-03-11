@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "es6",                  // Compile code to ES6 (ECMAScript 2015)
+      "module": "commonjs",            // Use CommonJS modules (default)
+      "outDir": "dist",                 // Output compiled JavaScript files to the 'dist' folder
+      "rootDir": "src",                 // Root directory containing TypeScript source files
+      "sourceMap": true,               // Generate source maps for debugging
+      "strict": true,                   // Enable strict type checking
+      "esModuleInterop": true          // Enable experimental ES module interop
+    }
+  }
+  
